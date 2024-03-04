@@ -1,4 +1,4 @@
-### Olá! Eu sou Bruna Fernandes de Oliveira.
+### Olá! Meu nome é Bruna.
 
 - 🌱 Estou estudando, Javascript e Python.
 - 📫 BruhOliveira1998@gmail.com
