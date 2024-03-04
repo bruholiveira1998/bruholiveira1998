@@ -1,6 +1,6 @@
 ### Olá! Eu sou Bruna Fernandes de Oliveira.
 
-- 🌱 Estou estudando, Javascript e C# atualmente.
+- 🌱 Estou estudando, Javascript e Python.
 - 📫 BruhOliveira1998@gmail.com
 
 <div align="center">
@@ -12,7 +12,7 @@
   <img align="center" alt="Bruna-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Bruna-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Bruna-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Bruna-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="Bruna-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
 </div>
   
   ##
